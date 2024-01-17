@@ -24,11 +24,11 @@ For labeling we have used LabelImg. Our dataset only contains one class that is 
 
 ### Some information about Empty spaces in our dataset
 
-<img src="readme_images/count_box.jpg" width="416"><img src="readme_images/area_plot.jpg" width="416">
+<img src="readme_images/count_box.png" width="300"><img src="readme_images/area_plot.png" width="300">
 
 ## Data Augmentation
 
 Gray scale conversion, 90, 180, 270 degree rotation and flip on Y-axis
-<img src="readme_images/gray_flip_lab.jpg" width="416"><img src="readme_images/gray_ori_lab.jpg" width="416">
+<img src="readme_images/gray_flip_lab.jpg" width="300"><img src="readme_images/gray_ori_lab.jpg" width="300">
 
-<img src="readme_images/image_398.jpg" width="208"><img src="readme_images/image_398_C90.jpg" width="208"><img src="readme_images/image_398_C90_C180.jpg" width="208"><img src="readme_images/image_398_flipY.jpg" width="208">
+<img src="readme_images/image_398.jpg" width="180"><img src="readme_images/image_398_C90.jpg" width="180"><img src="readme_images/image_398_C90_C180.jpg" width="180"><img src="readme_images/image_398_flipY.jpg" width="180">
