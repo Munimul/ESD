@@ -28,7 +28,24 @@ For labeling we have used LabelImg. Our dataset only contains one class that is 
 
 ## Data Augmentation
 
-Gray scale conversion, 90, 180, 270 degree rotation and flip on Y-axis
+### Gray scale conversion, 90, 180, 270 degree rotation and flip on Y-axis
+
 <img src="readme_images/gray_flip_lab.jpg" width="300"><img src="readme_images/gray_ori_lab.jpg" width="300">
 
 <img src="readme_images/image_398.jpg" width="180"><img src="readme_images/image_398_C90.jpg" width="180"><img src="readme_images/image_398_C90_C180.jpg" width="180"><img src="readme_images/image_398_flipY.jpg" width="180">
+
+## Training
+
+Batch size used in training : 8,16,32
+Epochs in training : 75, 150, 200
+
+## Result
+
+### Results from our well performing models
+
+<img src="readme_images/result.jpg">
+
+### Some detection images
+
+<img src="readme_images/image_1596.jpg" width="180"><img src="readme_images/image_1596_gray.jpg" width="180"><img src="readme_images/image_1610.jpg" width="180"><img src="readme_images/image_1610_gray.jpg" width="180">
+<img src="readme_images/image_1625.jpg" width="416">
