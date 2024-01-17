@@ -12,10 +12,10 @@ For labeling we have used LabelImg. Our dataset only contains one class that is 
 
 ### A sample labelled image using LabelImg Tool
 
-<img src="readme_images/labelled img.png">
+<img src="readme_images/labelled img.png" width="416">
 
 ### Types of image excluded from the dataset
 
-<img src="readme_images/image_203.jpg", width="208">
-<img src="readme_images/image_205.jpg", width="208">
-<img src="readme_images/image_208.jpg", width="208">
+<img src="readme_images/image_203.jpg" width="208">
+<img src="readme_images/image_205.jpg" width="208">
+<img src="readme_images/image_208.jpg" width="208">
