@@ -16,6 +16,6 @@ For labeling we have used LabelImg. Our dataset only contains one class that is 
 
 ### Types of image excluded from the dataset
 
-<img src="readme_images/image_203.jpg", width="208">
+<img src="https://github.com/Munimul/ESD/blob/main/readme_images/image_203.jpg", width="208">
 <img src="readme_images/image_205.jpg", width="208">
 <img src="readme_images/image_208.jpg", width="208">
