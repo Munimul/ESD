@@ -10,5 +10,12 @@ The SKU-110K dataset collects 11,762 densely packed shelf images from thousands 
 
 For labeling we have used LabelImg. Our dataset only contains one class that is "empty". We have applied multiple augmentation techniques for example: flipping image on Y-axis, grayscale conversion, image rotation etc.
 
-A sample labelled image using LabelImg Tool
+### A sample labelled image using LabelImg Tool
+
 ![labelled image example](readme_images/labelled%20img.png)
+
+### Types of image excluded from the dataset
+
+<img src="readme_images/image_203.jpg", width="208"/>
+<img src="readme_images/image_205.jpg", width="208"/>
+<img src="readme_images/image_208.jpg", width="208"/>
