@@ -14,8 +14,21 @@ For labeling we have used LabelImg. Our dataset only contains one class that is 
 
 <img src="readme_images/labelled img.png" width="416">
 
-### Types of image excluded from the dataset
+### Types of images excluded from the dataset
 
-<img src="readme_images/image_203.jpg" width="208">
-<img src="readme_images/image_205.jpg" width="208">
-<img src="readme_images/image_208.jpg" width="208">
+<img src="readme_images/image_203.jpg" width="208"><img src="readme_images/image_205.jpg" width="208"><img src="readme_images/image_226.jpg" width="208">
+
+### Types of images included in our dataset
+
+<img src="readme_images/image_604.jpg" width="208"><img src="readme_images/image_608.jpg" width="208"><img src="readme_images/image_628.jpg" width="208">
+
+### Some information about Empty spaces in our dataset
+
+<img src="readme_images/count_box.jpg" width="416"><img src="readme_images/area_plot.jpg" width="416">
+
+## Data Augmentation
+
+Gray scale conversion, 90, 180, 270 degree rotation and flip on Y-axis
+<img src="readme_images/gray_flip_lab.jpg" width="416"><img src="readme_images/gray_ori_lab.jpg" width="416">
+
+<img src="readme_images/image_398.jpg" width="208"><img src="readme_images/image_398_C90.jpg" width="208"><img src="readme_images/image_398_C90_C180.jpg" width="208"><img src="readme_images/image_398_flipY.jpg" width="208">
