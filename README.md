@@ -14,11 +14,11 @@ For labeling we have used LabelImg. Our dataset only contains one class that is 
 
 <img src="readme_images/labelled img.png" width="416">
 
-### Types of images excluded from the dataset
+### Types of images included in the dataset
 
 <img src="readme_images/image_203.jpg" width="208"><img src="readme_images/image_205.jpg" width="208"><img src="readme_images/image_226.jpg" width="208">
 
-### Types of images included in our dataset
+### Types of images excluded from our dataset
 
 <img src="readme_images/image_604.jpg" width="208"><img src="readme_images/image_608.jpg" width="208"><img src="readme_images/image_628.jpg" width="208">
 
